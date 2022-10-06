@@ -1,0 +1,33 @@
+body{
+    background-color: darkgray;
+}
+
+/* Todas Las secciones */
+.header{
+    background-color:white;
+    display: flex;
+    justify-content: center;
+}
+
+.cuadro_blanco{ 
+    background-color: white;
+    margin: 50px 200px 50px 200px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.all_sections{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 10px 0px 10px;
+}
+
+img{
+    height: 280px;
+    width: 552px;
+}
+
+p{
+    padding: 0px 10px 7px 10px;
+}
+
+/* Solo hice pocas lineas de codigo ya que no considero necesarias porque es muy repetitivo el proceso, por ende utilizo pocas lineas y las mismas etiquetas */
