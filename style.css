@@ -36,7 +36,10 @@ img{
 }
 
 p{
+    display: flex;
+    text-align: justify;
     padding: 0px 10px 7px 10px;
+    font-weight: normal;
 } 
 
 /* Solo hice pocas lineas de codigo ya que no considero necesarias porque es muy repetitivo el proceso, por ende utilizo pocas lineas y las mismas etiquetas */
