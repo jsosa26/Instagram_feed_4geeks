@@ -18,13 +18,13 @@ body{
 
 .cuadro_blanco{
     background-color: white;
-    width: 500px;
+    width: 450px;
     height: 500px;
     font-family: 'Merriweather Sans', sans-serif;
     margin: 10px;
 }
 
-/* .all_sections{
+.all_sections{
     display: flex;
     justify-content: space-between;
     padding: 0px 10px 0px 10px;
@@ -32,11 +32,11 @@ body{
 
 img{
     height: 280px;
-    width: 552px;
+    width: 450px;
 }
 
 p{
     padding: 0px 10px 7px 10px;
-} */
+} 
 
 /* Solo hice pocas lineas de codigo ya que no considero necesarias porque es muy repetitivo el proceso, por ende utilizo pocas lineas y las mismas etiquetas */
