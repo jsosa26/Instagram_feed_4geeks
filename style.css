@@ -19,8 +19,8 @@ body{
 .cuadro_blanco{
     background-color: white;
     width: 450px;
-    height: 500px;
-    font-family: 'Merriweather Sans', sans-serif;
+    height: 400px;
+    /* font-family: 'Merriweather Sans', sans-serif; */
     margin: 10px;
 }
 
